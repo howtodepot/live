@@ -1,7 +1,7 @@
 ---
 layout: single
 comments: false
-author_profile: false
+author_profile: true
 title:  About Me
 description: About me
 ---
