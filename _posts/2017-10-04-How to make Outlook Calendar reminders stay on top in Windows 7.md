@@ -118,7 +118,7 @@ It will open a pop up.
 
 Click the choose button and the in the next pop up it will show all the certificates that you have created. 
 
-Select the one we just created -**text_outlook_certificate** 
+Select the one we just created -**text_outlook_certificate** and press the OK button.
 
 ![select_certificate.PNG](/assets/images/OutlookReminders/select_certificate.PNG)
 
