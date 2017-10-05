@@ -15,14 +15,6 @@ Its quite annoying when outlook meetings reminders don't pop up. Usually these r
 
 This post will show you a trick to always have those reminders pop right up in front.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-8249317511242119",
-    enable_page_level_ads: true
-  });
-</script>
-
 ## Solution  ##
 
 Follow the steps and screen shots below and in less then a few minutes you will be all set.
@@ -142,11 +134,3 @@ Going forward whenever you have a meeting, a pop up will come up on top of your 
 ![messageBox.PNG](/assets/images/OutlookReminders/messageBox.PNG)
 
 Thanks for reading. For questions email me. I will be happy to help.
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-8249317511242119",
-    enable_page_level_ads: true
-  });
-</script>
